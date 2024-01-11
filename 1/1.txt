@@ -1,0 +1,12 @@
+git config --global user.name "Manasvi"
+git config --global user.email "youremail@yourdomain.com"
+
+cd dir
+
+create file index.html
+
+git init
+
+git status
+
+git add index.html
