@@ -1,7 +1,7 @@
 git config --global user.name "Manasvi"
 git config --global user.email "youremail@yourdomain.com"
 
-cd dir
+cd dir location  [ cd d: ] [ cd 6/winterPep/a]  
 
 create file index.html
 
@@ -10,3 +10,12 @@ git init
 git status
 
 git add index.html
+
+create 2 extra files
+
+git add --all
+
+git commit -m "first release"
+
+
+
