@@ -17,5 +17,16 @@ git add --all
 
 git commit -m "first release"
 
+git status --short                     command will show the current state of your Git working directory and staging area. 			        	It will show which files have been modified, added, or deleted, as well as which 					files are untracked.
+
+git commit -a -m "Second Release"
+
+git branch helloworldImages
+
+git branch
+
+git checkout helloworldImages
+
+
 
 
