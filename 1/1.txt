@@ -27,6 +27,18 @@ git branch
 
 git checkout helloworldImages
 
+add something in html
+
+git status
+
+git add --all
+
+git status
+
+git commit -m "edited helloworld html"
+
+
+
 
 
 
